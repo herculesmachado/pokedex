@@ -5,8 +5,7 @@
 
 Caracterizada e organizada por tipos, falicitando a procura do seu Pokemon favorito. Aproveite para acessar o site do Pokédex, clicando [Aqui.](https://pokemon-pokedex-cards.netlify.app/)
 
-
-
+![image](https://user-images.githubusercontent.com/78991418/229368340-e6a39114-1392-4243-aa14-ed99aae2249b.png)
 
 ## Aprendizados
 
